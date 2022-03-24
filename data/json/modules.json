@@ -30,6 +30,20 @@
         "py": 2
         }
     ],
+  "diamond_in_module": [{
+        "id": 1,
+        "px": -1,
+        "py": 0
+        },{
+        "id": 2,
+        "px": 0,
+        "py": -1
+        },{
+        "id": 3,
+        "px": 1,
+        "py": 0
+        }
+    ],
   "module_vertex": [
                 {
                     "pixel": 1,
