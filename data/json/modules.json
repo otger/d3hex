@@ -75,7 +75,22 @@
                     "pIx": 4,
                     "v": [6, 5, 4 ,3]
                 }],
-     
+  "diamond_vertex": [
+                {
+                    "diamond": 1,
+                    "dIa": 0,
+                    "v": [2,3]
+                },
+                {
+                    "diamond": 2,
+                    "dIa": 1,
+                    "v": [3,1]
+                },
+                {
+                    "diamond": 3,
+                    "dIa": 2,
+                    "v": [2,1]
+                }],     
   "modules_location": [
   {
     "x": -9,
