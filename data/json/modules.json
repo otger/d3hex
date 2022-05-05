@@ -1,5 +1,5 @@
 {
-  "version": "2019.01.16",
+  "version": "2022.05.04",
   "pixels_in_module": [{
         "id": 1,
         "px": -1,
@@ -28,6 +28,20 @@
         "id": 7,
         "px": 0,
         "py": 2
+        }
+    ],
+  "diamond_in_module": [{
+        "id": 1,
+        "px": -1,
+        "py": 0
+        },{
+        "id": 2,
+        "px": 0,
+        "py": -1
+        },{
+        "id": 3,
+        "px": 1,
+        "py": 0
         }
     ],
   "module_vertex": [
@@ -61,7 +75,22 @@
                     "pIx": 4,
                     "v": [6, 5, 4 ,3]
                 }],
-     
+  "diamond_vertex": [
+                {
+                    "diamond": 1,
+                    "dIa": 0,
+                    "v": [1,2,3]
+                },
+                {
+                    "diamond": 2,
+                    "dIa": 1,
+                    "v": [2,3]
+                },
+                {
+                    "diamond": 3,
+                    "dIa": 2,
+                    "v": [2,3]
+                }],     
   "modules_location": [
   {
     "x": -9,
